@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Connector
+    uniqueID: 3875495647
+    locked: 0
+  - name: Position
+    uniqueID: 3120082811
+    locked: 0
+  - name: Transition
+    uniqueID: 1959911107
+    locked: 0
+  - name: States
+    uniqueID: 301228439
+    locked: 0
+  - name: UI
+    uniqueID: 2774739961
+    locked: 0
